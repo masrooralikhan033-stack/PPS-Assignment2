@@ -10,8 +10,6 @@ You must write an algorithm with `O(log n)` runtime complexity.
 
  
 
-Original
-C++
  **Example 1:** 
 
 ```
@@ -42,9 +40,9 @@ Explanation: 2 does not exist in nums so return -1
 ## Solution
 
 **Language:** C++  
-**Runtime:** 0 ms (beats 100.00%)  
-**Memory:** 31.1 MB (beats 97.86%)  
-**Submitted:** 2026-11-23T07:08:05.162Z  
+**Runtime:** 0 ms  
+**Memory:** 8.3 MB  
+**Submitted:** 2026-11-23T07:09:00.919Z  
 
 ```cpp
 class Solution {
