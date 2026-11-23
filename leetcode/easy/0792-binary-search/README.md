@@ -41,8 +41,8 @@ Explanation: 2 does not exist in nums so return -1
 
 **Language:** C++  
 **Runtime:** 0 ms (beats 100.00%)  
-**Memory:** 31.3 MB (beats 62.94%)  
-**Submitted:** 2026-11-23T07:08:47.988Z  
+**Memory:** 31.3 MB (beats 29.54%)  
+**Submitted:** 2026-11-23T07:09:08.518Z  
 
 ```cpp
 class Solution {
